@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace PP1_SR3_Vistor_Registration_System
 {
-    public partial class UserControl1 : UserControl
+    public partial class Form1 : Form
     {
-        public UserControl1()
+        public Form1()
         {
             InitializeComponent();
         }
+
+
     }
 }
